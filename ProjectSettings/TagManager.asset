@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Friend
+  - Enemy
+  - OpenDoor
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 953192087
+    locked: 0
+  - name: enemies
+    uniqueID: 3845543185
+    locked: 0
+  - name: stat bars
+    uniqueID: 1469355025
+    locked: 0
+  - name: players
+    uniqueID: 3426909743
+    locked: 0
+  - name: main UI
+    uniqueID: 3279289911
+    locked: 0
+  - name: pause menu
+    uniqueID: 1364716663
+    locked: 0
